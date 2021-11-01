@@ -1,0 +1,25 @@
+@charset "UTF-8";
+body{
+	background: #87CEEB;
+}
+.login{
+	background: gray;
+	width: 300px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 20px;
+	margin-top: 200px;
+}
+
+.log{
+	width: 250px;
+	height: 20px;
+	margin-top: 5px;
+}
+
+#button{
+	padding: 5px;
+	width: 100px;
+	background: black;
+	color: white;
+}
